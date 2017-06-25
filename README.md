@@ -1,0 +1,2 @@
+# emacs
+mac emacs setting
